@@ -1,0 +1,87 @@
+spriteTypes = {
+
+	spriteType = {
+		name = "GFX_report_event_denmark_olsen_brothers"
+		texturefile = "gfx/event_pictures/report_event/specific_countries/denmark/olsen.dds"
+	}
+
+    spriteType = {
+		name = "GFX_report_event_denmark_social_democrat"
+		texturefile = "gfx/event_pictures/report_event/specific_countries/denmark/nyrup.dds"
+	}
+
+    spriteType = {
+		name = "GFX_report_event_denmark_progressive"
+		texturefile = "gfx/event_pictures/report_event/specific_countries/denmark/holgerk.dds"
+	}
+
+    spriteType = {
+		name = "GFX_report_event_denmark_social_liberal"
+		texturefile = "gfx/event_pictures/report_event/specific_countries/denmark/jelved.dds"
+	}
+
+    spriteType = {
+		name = "GFX_report_event_denmark_libertarian"
+		texturefile = "gfx/event_pictures/report_event/specific_countries/denmark/fogh.dds"
+	}
+
+    spriteType = {
+		name = "GFX_report_event_denmark_reactionary"
+		texturefile = "gfx/event_pictures/report_event/specific_countries/denmark/df.dds"
+	}
+
+    spriteType = {
+		name = "GFX_report_event_denmark_conservative"
+		texturefile = "gfx/event_pictures/report_event/specific_countries/denmark/conservatives.dds"
+	}
+
+    spriteType = {
+		name = "GFX_report_event_denmark_monarchist"
+		texturefile = "gfx/event_pictures/report_event/specific_countries/denmark/margrethe.dds"
+	}
+
+    spriteType = {
+		name = "GFX_report_event_denmark_martial_law"
+		texturefile = "gfx/event_pictures/report_event/specific_countries/denmark/police.dds"
+	}
+
+    spriteType = {
+		name = "GFX_report_event_denmark_dannebrog"
+		texturefile = "gfx/event_pictures/report_event/specific_countries/denmark/dannebrog.dds"
+	}
+
+    spriteType = {
+		name = "GFX_report_event_denmark_nationalist"
+		texturefile = "gfx/event_pictures/report_event/specific_countries/denmark/nationalist.dds"
+	}
+
+    spriteType = {
+		name = "GFX_report_event_denmark_fascist"
+		texturefile = "gfx/event_pictures/report_event/specific_countries/denmark/jonni.dds"
+	}
+
+    spriteType = {
+		name = "GFX_report_event_denmark_internationalists"
+		texturefile = "gfx/event_pictures/report_event/specific_countries/denmark/internationalists.dds"
+	}
+
+    spriteType = {
+		name = "GFX_report_event_denmark_islamist"
+		texturefile = "gfx/event_pictures/report_event/specific_countries/denmark/islamist.dds"
+	}
+
+    spriteType = {
+		name = "GFX_report_event_denmark_abdication"
+		texturefile = "gfx/event_pictures/report_event/specific_countries/denmark/abdication.dds"
+	}
+
+    spriteType = {
+		name = "GFX_report_event_denmark_socialist"
+		texturefile = "gfx/event_pictures/report_event/specific_countries/denmark/enhedslisten.dds"
+	}
+
+    spriteType = {
+		name = "GFX_report_event_denmark_communist"
+		texturefile = "gfx/event_pictures/report_event/specific_countries/denmark/communist.dds"
+	}
+}
